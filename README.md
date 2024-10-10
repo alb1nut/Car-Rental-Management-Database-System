@@ -2,6 +2,9 @@
 
 This project focuses on managing a car rental database system, including tables for cars, users, bookings, and car damages. It features SQL scripts for data retrieval, insertion, and updates, allowing efficient interaction with the database to handle various rental service operations.
 
+![Physical data model](https://github.com/user-attachments/assets/5b7742b3-adad-4f6a-9924-54f51ed0c15d)
+
+
 ## Key Features
 - Count available cars
 - Analyze bookings by time period
