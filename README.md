@@ -12,7 +12,8 @@ This project focuses on managing a car rental database system, including tables 
 ## How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/car-rental-management.git
+    git clone https://github.com/alb1nut/Car-Rental-Management-Database-System.git
+    
     ```
 2. Import the SQL scripts into your PostgreSQL database.
 3. Run the provided SQL queries to manage the car rental system.
@@ -21,5 +22,3 @@ This project focuses on managing a car rental database system, including tables 
 - PostgreSQL or compatible SQL database.
 - Basic SQL knowledge to run queries.
 
-## License
-This project is licensed under the MIT License.
